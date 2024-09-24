@@ -37,7 +37,7 @@ public class Prueborly : MonoBehaviour
 
     void Update()
     {
-        if (pr.canAttack)
+        /*if (pr.canAttack)
         {
             if (Time.time > lastAttackTime + attackInterval)
             {
@@ -83,6 +83,6 @@ public class Prueborly : MonoBehaviour
         if (pr.vida <= 0)
         {
             laser1.SetActive(false);
-        }
+        }*/
     }
 }
