@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_3
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 66fde843fc0f430ec97781ec
   packageName: Prueba_avatar
   thumbnail: {fileID: 2800000, guid: 6470fc416b16efb4eac4acdef93de5a3, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: 878e7ccs6knf5qz2h8hd8
   scene: {fileID: 102900000, guid: 4a003508bbebbc74c97c1ca142d763a1, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
